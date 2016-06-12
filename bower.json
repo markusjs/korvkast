@@ -1,0 +1,22 @@
+{
+  "name": "goodmorningdemo",
+  "private": true,
+  "dependencies": {
+    "gsap": "~1.16.0",
+    "pixi": "~3.0.0"
+  },
+  "homepage": "https://github.com/Markusjs/GoodMorningDemo",
+  "authors": [
+    "Markus Sørem <sormar@westerdals.no>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
